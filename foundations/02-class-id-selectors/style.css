@@ -1,0 +1,23 @@
+.clase1{
+    color: black;
+    background-color: palevioletred;
+    font-family: verdana,sans-serif;
+}
+
+#idone{
+    color: blue;
+    font-size: 36px;
+}
+
+.clase3{
+    color: black;
+    background-color: palevioletred;
+    font-size: 24px;
+}
+
+#idtwo{
+    color: black;
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}

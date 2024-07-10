@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+
+/* woman with glasses */
+.avatar.proportioned{
+    width: 300px;
+    height: auto;
+}
+
+/* suprised men */
+.avatar.distorted{
+    width: 200px;
+    height: 400px;
+} 
